@@ -1,0 +1,3 @@
+﻿  kondisionalSederhana2.cpp
+C:\Kuliah\pertemuan2\kondisionalSederhana2\kondisionalSederhana2.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  kondisionalSederhana2.vcxproj -> C:\Kuliah\pertemuan2\pertemuan2kondisionalSederhana\x64\Debug\kondisionalSederhana2.exe

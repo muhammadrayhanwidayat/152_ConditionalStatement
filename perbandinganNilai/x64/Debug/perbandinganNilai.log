@@ -1,0 +1,3 @@
+﻿  perbandinganNilai.cpp
+C:\Kuliah\pertemuan2\perbandinganNilai\perbandinganNilai.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  perbandinganNilai.vcxproj -> C:\Kuliah\pertemuan2\pertemuan2kondisionalSederhana\x64\Debug\perbandinganNilai.exe
